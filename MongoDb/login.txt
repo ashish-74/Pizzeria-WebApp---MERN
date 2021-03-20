@@ -1,0 +1,3 @@
+db.getCollection('login').insertMany[{
+name:'abc',password:'abc123'},
+{name:'abcde',password:'abcde123'}]
